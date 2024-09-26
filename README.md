@@ -1,2 +1,2 @@
 # demo
-protfolio kind of repo
+portfolio kind of repo
